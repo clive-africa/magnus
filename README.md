@@ -198,15 +198,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Sentinel is designed to comply with:
 - South African Solvency Assessment and Management (SAM) framework
 - Prudential Authority requirements
-- ORSA (Own Risk and Solvency Assessment) guidelines
 
 **Disclaimer**: While Sentinel is designed to assist with regulatory calculations, users remain responsible for ensuring compliance with all applicable regulations. Always validate results and consult with qualified actuaries.
-
-## Acknowledgments
-
-- Developed by Clive Hogarth for Old Mutual Insure
-- Actuarial Society of South Africa (ASSA) for regulatory guidance
-- Contributors from the South African insurance industry
 
 ## Version History
 
